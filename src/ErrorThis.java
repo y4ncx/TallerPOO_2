@@ -13,6 +13,4 @@ public class ErrorThis {
     public static void main(String[] args) {
         ErrorThis estudiante = new ErrorThis("Miguel");
     }
-
-    mostrarnombre(); // error, no se puede acceder al "this."
 }
