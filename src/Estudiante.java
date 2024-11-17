@@ -10,7 +10,7 @@ public class Estudiante {
 
     // Constructor por defecto que llama al constructor con dos parametros
     public Estudiante() {
-        this("Nombre por defecto", 18);
+        this("Nombre por defecto", 0);
     }
 
     // Metodo para imprimir
